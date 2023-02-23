@@ -1,0 +1,10 @@
+C:\Users\paulo.filho\Desktop\Individuais\ChatWebSockets.API\ChatWebSocketsServer.API\ChatWebSocketsServer.API\bin\Debug\ChatWebSocketsServer.API.exe.config
+C:\Users\paulo.filho\Desktop\Individuais\ChatWebSockets.API\ChatWebSocketsServer.API\ChatWebSocketsServer.API\bin\Debug\ChatWebSocketsServer.API.exe
+C:\Users\paulo.filho\Desktop\Individuais\ChatWebSockets.API\ChatWebSocketsServer.API\ChatWebSocketsServer.API\bin\Debug\ChatWebSocketsServer.API.pdb
+C:\Users\paulo.filho\Desktop\Individuais\ChatWebSockets.API\ChatWebSocketsServer.API\ChatWebSocketsServer.API\bin\Debug\websocket-sharp.dll
+C:\Users\paulo.filho\Desktop\Individuais\ChatWebSockets.API\ChatWebSocketsServer.API\ChatWebSocketsServer.API\obj\Debug\ChatWebSocketsServer.API.csproj.AssemblyReference.cache
+C:\Users\paulo.filho\Desktop\Individuais\ChatWebSockets.API\ChatWebSocketsServer.API\ChatWebSocketsServer.API\obj\Debug\ChatWebSocketsServer.API.csproj.SuggestedBindingRedirects.cache
+C:\Users\paulo.filho\Desktop\Individuais\ChatWebSockets.API\ChatWebSocketsServer.API\ChatWebSocketsServer.API\obj\Debug\ChatWebSocketsServer.API.csproj.CoreCompileInputs.cache
+C:\Users\paulo.filho\Desktop\Individuais\ChatWebSockets.API\ChatWebSocketsServer.API\ChatWebSocketsServer.API\obj\Debug\ChatWebSocketsServer.API.csproj.CopyComplete
+C:\Users\paulo.filho\Desktop\Individuais\ChatWebSockets.API\ChatWebSocketsServer.API\ChatWebSocketsServer.API\obj\Debug\ChatWebSocketsServer.API.exe
+C:\Users\paulo.filho\Desktop\Individuais\ChatWebSockets.API\ChatWebSocketsServer.API\ChatWebSocketsServer.API\obj\Debug\ChatWebSocketsServer.API.pdb
